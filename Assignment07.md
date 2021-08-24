@@ -63,7 +63,7 @@ the opportunity to input a numeric value to run through the script completely.
 ![Results of Figure 1](https://github.com/ethan-morgan/IntroToProg-Python-Mod7/blob/main/Assignment07_Figure2.png "Results of Figure 1")
 Figure 2 'Assignment07_ErrorHandling.py' Script Running in PyCharm
 
-
+![Results of Figure 1](https://github.com/ethan-morgan/IntroToProg-Python-Mod7/blob/main/Assignment07_Figure3.png "Results of Figure 1")
 Figure 3 'Assignment07_ErrorHandling.py' Script Running in Command Shell/OS
 
 The external site link below was very good at describing how a ‘try/except’ statement is to

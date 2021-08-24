@@ -60,7 +60,7 @@ that the user needs to input a numeric value and not a string.  As discussed pre
 try/except error handling was used to prevent the script from erroring out and giving the user
 the opportunity to input a numeric value to run through the script completely.
 
-
+https://github.com/ethan-morgan/IntroToProg-Python-Mod7/blob/main/Assignment07_Figure2.png
 Figure 2 'Assignment07_ErrorHandling.py' Script Running in PyCharm
 
 

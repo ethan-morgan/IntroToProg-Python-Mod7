@@ -46,6 +46,7 @@ while True: # 'while' statement used to continue to ask for user input
         print("Your Input of",user_input,"is a String!") # print feedback user didn't input correctly
         print("Please Input a Number, Not a String!") # print feedback user didn't input correctly
 ```
+Figure 1 'Assignment07_ErrorHandling.py' Script
 
 A ‘while’ loop is used continually ask the user to input a numeric value.  Then a ‘try/except’
 error handling capability is used to prevent the script from erroring out if the user inputs
@@ -53,8 +54,10 @@ something other than a numeric value.  If the user inputs a string, the first li
 the ‘try’ clause will push the user into the ‘except’ clause and inform the user input a number,
 not a string.
 
-## Picling Script
+## Pickling Script
 
 
 ## Summary
 
+Assignment 07 provided us to work with ‘try/except’ statements and using Pickle as a way of
+working with binary files.

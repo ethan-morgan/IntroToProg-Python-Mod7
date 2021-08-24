@@ -54,6 +54,26 @@ something other than a numeric value.  If the user inputs a string, the first li
 the ‘try’ clause will push the user into the ‘except’ clause and inform the user input a number,
 not a string.
 
+Figure 2 and Figure 3 show the ‘Assignment07_ErrorHandling.py’ script running in PyCharm and
+Command OS/Shell respectively.  The user initially input ‘Potato’ and the script passed back
+that the user needs to input a numeric value and not a string.  As discussed previously, the
+try/except error handling was used to prevent the script from erroring out and giving the user
+the opportunity to input a numeric value to run through the script completely.
+
+
+Figure 2 'Assignment07_ErrorHandling.py' Script Running in PyCharm
+
+
+Figure 3 'Assignment07_ErrorHandling.py' Script Running in Command Shell/OS
+
+The external site link below was very good at describing how a ‘try/except’ statement is to
+be used in Python.  
+
+Web Article Link: https://docs.python.org/3/tutorial/errors.html (External Site)
+
+This article was helpful because it gave a detailed description of how a ‘try/except’ statements
+runs through the code.  I especially like the discussion about embedded ‘try/except’ statements.
+
 ## Pickling Script
 
 

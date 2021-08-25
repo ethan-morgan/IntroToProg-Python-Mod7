@@ -132,7 +132,7 @@ Figure 6 ‘Assignment07_Pickling.py’ Script Running in Command Shell/OS
 Figure 7 shows the actual binary file and note that it is hard to decipher exactly what is in
 the file even though some words are visable.
 
-![Results of Figure 4]( "Results of Figure 4")
+![Results of Figure 4](https://github.com/ethan-morgan/IntroToProg-Python-Mod7/blob/main/Assignment07_Figure7.png "Results of Figure 4")
 Figure 7 ‘Assignment07_Pickling.py’ Script Created Binary File
 
 The web article shown below was helpful in describing what ‘Pickle’ does in Python.  While the script shown in Figure 4 only does a fraction of what ‘pickling’ can be done, it does show some of the capabilities.  I found this article helpful because it shows the full breadth of what ‘Pickle’ can do.

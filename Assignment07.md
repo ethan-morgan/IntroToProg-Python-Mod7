@@ -123,7 +123,7 @@ Figure 5 and Figure 6 show the ‘Assignment07_Pickling.py’ script running in 
 OS/Shell respectively.  Note the dictionary that was defined in the script prior to being written
 to a binary file is the same as the dictionary after reading from a binary file.
 
-![Results of Figure 4]( "Results of Figure 4")
+![Results of Figure 4](https://github.com/ethan-morgan/IntroToProg-Python-Mod7/blob/main/Assignment07_Figure5.png "Results of Figure 4")
 Figure 5 ‘Assignment07_Pickling.py’ Script Running in PyCharm
 
 ![Results of Figure 4]( "Results of Figure 4")
